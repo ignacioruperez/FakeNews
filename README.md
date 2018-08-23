@@ -1,2 +1,2 @@
 # FakeNews
-Fake News Classification
+Fake News Classification - NLTK in Python
